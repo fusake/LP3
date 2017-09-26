@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Banco>
+    <Conta type="poupanca">
+        <Id>1001</Id>
+        <Nome>Charles Rodamilans</Nome>
+        <Valor>1000</Valor>
+    </Conta>
+    <Conta type="corrente">
+        <Id>1002</Id>
+        <Nome>Maria Joaquina</Nome>
+        <Valor>2000</Valor>
+    </Conta>
+</Banco>

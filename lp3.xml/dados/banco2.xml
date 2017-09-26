@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Empresa>
+    <Empregado id="10">
+        <PrimeiroNome>Maria</PrimeiroNome>
+        <UltimoNome>Mariana</UltimoNome>
+        <Email>maria.mariana@exemplo.br</Email>
+        <Departamento>Recursos Humanos</Departamento>
+        <Salario>9000</Salario>
+        <Endereco>Rua Grande, 133</Endereco>
+    </Empregado>
+    
+    <Empregado id="2">
+        <PrimeiroNome>João</PrimeiroNome>
+        <UltimoNome>Joãobosco</UltimoNome>
+        <Email>joao.joaobosco@exemplo.br</Email>
+        <Departamento>Financeiro</Departamento>
+        <Salario>400</Salario>
+        <Endereco>Rua Media, 222</Endereco>
+    </Empregado>
+</Empresa>
+
